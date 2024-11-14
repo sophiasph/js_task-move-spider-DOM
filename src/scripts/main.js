@@ -1,7 +1,5 @@
 'use strict';
 
-'use strict';
-
 document.addEventListener('click', (e) => {
   const spider = document.querySelector('.spider');
   const wall = document.querySelector('.wall');
